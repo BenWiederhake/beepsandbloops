@@ -12,7 +12,7 @@ NUM_OVERTONES = 10
 STEP_BPM = 100
 
 # 5k is a nice background volume, 10k is a bit loud
-MAX_AMPLITUDE = 7500
+MAX_AMPLITUDE = 6000
 
 # Write the "CD" format: signed 16 bit little endian, 44100 Hertz, stereo
 SAMPLE_RATE = 44100
